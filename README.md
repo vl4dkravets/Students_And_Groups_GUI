@@ -10,3 +10,6 @@ GUI application which utilizes 2 tables from DB to store groups along with stude
 Needed imporvements:
   - To implement the Report button from the menu bar which displays all the students stored in DB 
   
+  ![Screenshot from 2021-02-14 14-50-33](https://user-images.githubusercontent.com/47478584/107887429-0ae78800-6ed4-11eb-891e-afb13c27f04a.png)
+
+  
